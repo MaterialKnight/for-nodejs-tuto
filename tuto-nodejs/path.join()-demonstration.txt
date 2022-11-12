@@ -1,0 +1,1 @@
+This txt file was made just to show how the node.js path.join() method works.
